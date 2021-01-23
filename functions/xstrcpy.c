@@ -21,6 +21,5 @@ void xstrcpy(char *a, char *b)
         b++;
     }
     *a = '\0';
-    
 }
 
