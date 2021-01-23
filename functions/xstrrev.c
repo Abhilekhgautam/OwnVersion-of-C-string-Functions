@@ -26,4 +26,5 @@ char * xstrrev(char *a)
     }
     a[i] = '\0';
     return a;
+    
 }
