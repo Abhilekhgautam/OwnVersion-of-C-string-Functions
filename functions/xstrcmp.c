@@ -46,5 +46,4 @@ int xstrcmp(char *a ,char *b)
         }
     }
     return diff;
-
 }
