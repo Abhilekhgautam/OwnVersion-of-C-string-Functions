@@ -24,4 +24,5 @@ void xstrcat(char *a,char*b)
        a++;
    }
    *a = '\0';
+   
 }
